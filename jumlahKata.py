@@ -1,4 +1,4 @@
-kalimat = ' I have    a  dream'
+kalimat = 'Why don\'t you not warm anymore?'
 count = 0
 kataKata = []
 kata = ''
@@ -10,4 +10,4 @@ for i in range(0,len(kalimat),1):
         kata += kalimat[i]
 if len(kata) != 0:
     kataKata.append(kata)
-print kataKata
+print len(kataKata)
