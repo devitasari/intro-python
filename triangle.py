@@ -1,4 +1,4 @@
-num = 3
+num = 10
 for i in range(0,num,1):
     display = ''
     for j in range(0,num+i,1):
