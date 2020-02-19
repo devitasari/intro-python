@@ -4,6 +4,6 @@ for i in range(len(kata)-1,-1,-1):
     reversedKata += kata[i]
 
 if kata == reversedKata:
-    print True
+    print (True)
 else:
-    print False
+    print (False)
